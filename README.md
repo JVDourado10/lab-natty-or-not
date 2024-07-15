@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Conquista do Mundo: A Jornada do Palmeiras ao Título Mundial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste eBook, vamos embarcar na jornada fictícia do Palmeiras rumo ao título mundial. Uma narrativa recheada de emoções, desafios e vitórias, que culmina na consagração do clube como o melhor do mundo. Prepare-se para reviver cada momento dessa epopeia esportiva que encheu de orgulho a torcida alviverde.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT - Responsável pela criação do roteiro do Ebook
+LeonardoAI - Criação da imagem de capa do ebook
+Microsoft Word - Editor de texto utilizado
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Em conversa com o ChatGPT criamos a ideia de base para o projeto e pudemos colocar em prática a ideia através da roteirização dos capitulos do ebook. A partir disso, só foi preciso pedir ao LeonardoAI para gerar uma imagem que representasse esse evento fictício e, por fim, do word para transcrever e editar todo o conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+O pdf do ebook pode ser acessado através desse repositório, no documento 'A CONQUISTA DO MUNDO.pdf'
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito prático, fácil e divertido utilizar o auxílio da IA para dar vida a ideias de maneira rápida e eficaz.
 ```
 
 ### Exemplos e Insigths
